@@ -1,7 +1,0 @@
-echo "# bkz" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hope1917/bkz.git
-git push -u origin main
